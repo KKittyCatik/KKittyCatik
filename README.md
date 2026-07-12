@@ -9,13 +9,9 @@
 
 ---
 
-## 👨‍💻 About me
+## About me
 
 Backend developer specialising in Python. I design and maintain high-load APIs, build async systems, and work across the full data layer. I'm comfortable picking up legacy codebases and turning them around.
-
-- 🔍 **Open to opportunities** — remote or Yekaterinburg
-- 💬 Reach me on Telegram or email — quick to respond
-- 🌐 English — B2 (technical docs, async communication, no problem)
 
 ---
 
@@ -37,15 +33,6 @@ Backend developer specialising in Python. I design and maintain high-load APIs, 
 | **Messaging** | Kafka, RabbitMQ |
 | **Infra** | Docker, Docker Compose, Nginx, Linux |
 | **Tools** | Git, pytest, SQLAlchemy, Alembic |
-
----
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KKittyCatik&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKittyCatik&layout=compact&hide_border=true" height="150"/>
-</p>
 
 ---
 
